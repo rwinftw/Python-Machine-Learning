@@ -1,0 +1,1 @@
+The purpose of this repo is to track my journey on machine learning and python skills
